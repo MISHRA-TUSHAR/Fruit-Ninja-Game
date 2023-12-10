@@ -1,0 +1,1 @@
+ C:\\Users\\asus\\development\\projects\\fruit_ninja\\.dart_tool\\flutter_build\\2e10766114b4e64db0137c3d78791872\\native_assets.yaml: 
